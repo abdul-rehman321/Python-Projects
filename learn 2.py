@@ -1,0 +1,13 @@
+a=5
+b=2
+c=1
+add=a+b+c
+sub=a-b-c
+mul=a*b*c
+dvd=a/b/c
+per=(a+b+c)/b
+print(add)
+print(sub)
+print(mul)
+print(dvd)
+print(per)
