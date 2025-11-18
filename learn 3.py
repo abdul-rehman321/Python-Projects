@@ -1,0 +1,12 @@
+A,B=2,5
+Txt="@"
+C,D="5",7
+Txt="@"
+E,F=3,4
+G,H=2,76
+I,J=7,2.25
+K=I+J
+print(A*Txt*B)
+print((C+Txt)*D)
+print(E+F*G-H)
+print(K)
